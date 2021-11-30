@@ -1,0 +1,18 @@
+name: RealmsCore
+version: ${project.version}
+main: dev.lightdream.RealmsCore.Main
+authors: [ L1ghtDream ]
+website: https://lightdream.dev
+softdepend:
+  - LightDreamAPI
+depend:
+  - WorldEdit
+commands:
+  realms:
+    description: NA
+  ld-api:
+    description: NA
+  resources:
+    description: NA
+  navigator:
+    description: NA
