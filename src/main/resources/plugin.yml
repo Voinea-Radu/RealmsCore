@@ -7,6 +7,8 @@ softdepend:
   - LightDreamAPI
 depend:
   - WorldEdit
+  - Vault
+  - PlaceholderAPI
 commands:
   realms:
     description: NA
